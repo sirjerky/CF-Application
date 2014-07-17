@@ -1,0 +1,9 @@
+.red {
+    color: red;
+}
+.list:hover {
+    text-decoration: underline;
+}
+.list {
+    color: blue;
+}
